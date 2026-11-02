@@ -7,6 +7,7 @@ Examples for frameworks beyond the published npm packages.
 | `openai-agents/` | OpenAI Agents SDK |
 | `llamaindex/` | LlamaIndex (Python) |
 | `crewai/` | CrewAI |
+| `para/` | Para wallet agent (x402check beforePayment → pay) |
 
 Published packages:
 
